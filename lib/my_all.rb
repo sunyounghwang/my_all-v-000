@@ -8,5 +8,6 @@ def my_all?(collection)
     else
       return false
     end
+    true
   end
 end
